@@ -16,4 +16,8 @@ class DemoApplicationTests {
         Assertions.assertTrue(true);
     }
 
+    @Test
+    void test2() {
+        Assertions.assertTrue(false);
+    }
 }
